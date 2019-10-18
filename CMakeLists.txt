@@ -5,7 +5,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
 # Create a sources variable with a link to all cpp files to compile
 set(SOURCES
-    src/main.cpp
+    main.cpp
 )
 
 # Add an executable with the above sources
